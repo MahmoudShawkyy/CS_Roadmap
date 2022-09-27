@@ -53,7 +53,11 @@ The Roadmap has been designed to cover the fundamental topics in Computer Scienc
  
   [LeetCode Training Sheet](https://docs.google.com/spreadsheets/d/1Zc5uWPGXg39mKxHvq_fjVmp6lh8dv1GiM1Tw6Mq9uQs/edit#gid=1948631141): (Recommended for senior students or students are not interested in Competitive Programming )
   
-  Note : This sheet is still being updated
+   **Notes :-**
+ 
+ 1- Algorithms and Data Structures Materials are provided in these two sheets with problems on every topic
+ 
+ 2- LeetCode Sheet is still being updated
  
  ### **Object Oriented Design**
  
@@ -85,9 +89,12 @@ The Roadmap has been designed to cover the fundamental topics in Computer Scienc
  
 ### **Operating Systems** 
 
-[Operating System Concepts](https://www.youtube.com/playlist?list=PLxIvc-MGOs6ib0oK1z9C46DeKd9rRcSMY)
+1- [Operating System Concepts](https://www.youtube.com/playlist?list=PLxIvc-MGOs6ib0oK1z9C46DeKd9rRcSMY)<br>
+2- [Memory Management 1](https://www.youtube.com/watch?v=cjZqwsxLVtQ&list=PLkpYqKNqc_CvCqERss2WBKWE3fb1jEmKE&index=5)<br>
+3- [Memory Management 2](https://www.youtube.com/watch?v=EWof2WGvFCw&list=PLkpYqKNqc_CvCqERss2WBKWE3fb1jEmKE&index=6)<br>
+4- [Virtual Memory](https://www.youtube.com/watch?v=1p1XXdLt_9g&list=PLkpYqKNqc_CvCqERss2WBKWE3fb1jEmKE&index=7)
 
-  
+
 ## Advanced Level
 
 ### **Distributed Systems**
