@@ -103,9 +103,9 @@ The Roadmap has been designed to cover the fundamental topics in Computer Scienc
 
 ### **Software Engineering**
 
-[Software Development Life Cycle](https://www.youtube.com/playlist?list=PLAuF74dVvpM3kz6BaKcMUfDk2VelObKKq)
+1- [Software Development Life Cycle](https://www.youtube.com/playlist?list=PLAuF74dVvpM3kz6BaKcMUfDk2VelObKKq)
 
-[Agile Software Development](https://www.youtube.com/watch?v=UxMpn92vGXs)
+2- [Agile Software Development](https://www.youtube.com/watch?v=UxMpn92vGXs)
 
 Recommended : [Software Engineering at Google](https://www.oreilly.com/library/view/software-engineering-at/9781492082781/)
 
