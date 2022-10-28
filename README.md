@@ -85,7 +85,7 @@ The Roadmap has been designed to cover the fundamental topics in Computer Scienc
   
  ### **Networks** 
  
- [Computer Networking](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBpuvPW0aHa7mKdn_k9SPKO)
+ [Computer Networking](https://www.youtube.com/playlist?list=PLDQaRcbiSnqF5U8ffMgZzS7fq1rHUI3Q8)
  
 ### **Operating Systems** 
 
